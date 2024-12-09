@@ -1,0 +1,76 @@
+[
+    {
+        "value": "web",
+        "courseName": [
+            {
+                "value": "web前端基础核心语法",
+                "className": [
+                    "javacript核心语法-路遥",
+                    "javacript核心语法-许鑫",
+                    "HTML+CSS基础-雪狐",
+                    "HTML+CSS基础-朱雀"
+                ]
+            },
+            {
+                "value": "web前端进阶框架",
+                "className": [
+                    "web-前端进阶框架-丸子",
+                    "web-前端进阶框架-朱雀",
+                    "web-前端进阶框架-路遥",
+                    "web-前端进阶框架-许鑫"
+                ]
+            },
+            {
+                "value": "web前端设计模式",
+                "className": [
+                    "web-设计模式-丸子",
+                    "web-设计模式-阿飞"
+                ]
+            }
+        ]
+    },
+    {
+        "value": "Python",
+        "courseName": [
+            {
+                "value": "Python基础核心语法",
+                "className": [
+                    "python-核心语法基础班-look",
+                    "python-核心语法基础班-闹闹",
+                    "python-核心语法基础班-阿言",
+                    "python-核心语法基础班-莫扎特"
+                ]
+            },
+            {
+                "value": "Python进阶",
+                "className": [
+                    "python-全栈开发-look",
+                    "python-全栈开发-闹闹",
+                    "python-全栈开发-阿言",
+                    "python-全栈开发-莫扎特"
+                ]
+            }
+        ]
+    },
+    {
+        "value": "java",
+        "courseName": [
+            {
+                "value": "Java基础",
+                "className": [
+                    "Java-基础班-张三",
+                    "Java-基础班-李四",
+                    "Java-基础班-王五"
+                ]
+            },
+            {
+                "value": "Java高级",
+                "className": [
+                    "Java-高级班-张三",
+                    "Java-高级班-李四",
+                    "Java-高级班-王五"
+                ]
+            }
+        ]
+    }
+]
